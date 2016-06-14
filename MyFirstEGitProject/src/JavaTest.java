@@ -11,6 +11,7 @@ public class JavaTest {
 		System.out.println("still not underdtood completly.");
 		System.out.println("After vedio tutorial.");
 		System.out.println("After vedio tutorial 2.");
+		System.out.println("After vedio tutorial 3.");
 	}
 
 }
