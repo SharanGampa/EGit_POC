@@ -14,6 +14,7 @@ public class JavaTest {
 		System.out.println("After vedio tutorial 3.");
 		System.out.println("removed last two lines :P");
 		System.out.println("Trying to understand the concept of checkout");
+		System.out.println("no changes");
 	}
 
 }
