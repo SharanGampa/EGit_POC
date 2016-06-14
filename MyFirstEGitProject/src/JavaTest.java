@@ -9,6 +9,7 @@ public class JavaTest {
 		System.out.println("Am following correct???");
 		System.out.println("Trying for sync.");
 		System.out.println("still not underdtood completly.");
+		System.out.println("After vedio tutorial.");
 	}
 
 }
