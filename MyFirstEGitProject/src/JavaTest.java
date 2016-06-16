@@ -1,3 +1,6 @@
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
 
 public class JavaTest {
 
@@ -15,6 +18,8 @@ public class JavaTest {
 		System.out.println("removed last two lines :P");
 		System.out.println("Trying to understand the concept of checkout");
 		System.out.println("no changes");
+		WebDriver Driver = new FirefoxDriver();
+		Driver.get("https://google.com");
 	}
 
 }
